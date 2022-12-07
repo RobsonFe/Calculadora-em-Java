@@ -1,3 +1,10 @@
+// Projeto Criado por Robson Ferreira
+
+// Aluno: Robson Ferreira;
+// Curso: Analise e Desenvolvimento de Sistemas;
+// 1º Periodo;
+
+
 import java.util.Scanner;
 
 public class Main {
